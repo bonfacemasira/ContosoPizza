@@ -30,3 +30,4 @@ c:\Users\boniface.masira\Desktop\learn\CSharpProjects\ContosoPizza\obj\Debug\net
 c:\Users\boniface.masira\Desktop\learn\CSharpProjects\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 c:\Users\boniface.masira\Desktop\learn\CSharpProjects\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 c:\Users\boniface.masira\Desktop\learn\CSharpProjects\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+c:\Users\boniface.masira\Desktop\learn\CSharpProjects\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
