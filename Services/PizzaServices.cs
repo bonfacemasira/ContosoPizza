@@ -14,7 +14,7 @@ public static class PizzaService
             new Pizza { Id = 1, Name = "Margherita", IsGlutenFree = false },
             new Pizza { Id = 2, Name = "Pepperoni", IsGlutenFree = false },
             new Pizza { Id = 3, Name = "Veggie", IsGlutenFree = true },
-            new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false }
+            new Pizza { Id = 4, Name = "Classic Italian", IsGlutenFree = false }
         };
     }
 
